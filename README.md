@@ -1,4 +1,4 @@
-# Linux System Configuration & Tools
+hello# Linux System Configuration & Tools
 
 本儲存庫用於記錄與管理 Linux 系統相關的設定檔（Config Files）、操作腳本與筆記。
 
